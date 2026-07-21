@@ -2,7 +2,7 @@
 
 Support website for NS4 Companion - the companion app for Nord Stage 4 keyboard owners.
 
-**Live site:** https://ns4.kongsjorden-studio.no
+**Live site:** https://companion.kongsjorden-studio.no
 
 ## Tech Stack
 
@@ -60,7 +60,7 @@ The `dist/` folder contains static files ready for any web server.
 
 ## Contributing
 
-Report bugs and request features via [GitHub Issues](https://github.com/kongsjorden/NS4-Support/issues).
+Report bugs and request features via [GitHub Issues](https://github.com/kongsjorden/Stage-Companion/issues).
 
 ## License
 
