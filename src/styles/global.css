@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 @theme {
-  /* Nord-inspired color palette */
+  /* Stage-inspired color palette */
   --color-background: #1a1a1a;
   --color-surface: #2a2a2a;
   --color-surface-hover: #3a3a3a;

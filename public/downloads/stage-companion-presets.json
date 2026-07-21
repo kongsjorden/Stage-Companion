@@ -2,7 +2,7 @@
   "format": "stage-companion-presets",
   "version": 1,
   "programs": [
-    { "bank": "A", "programNumber": 1, "name": "NS4 Palette", "category": "Layer" },
+    { "bank": "A", "programNumber": 1, "name": "Factory Palette", "category": "Layer" },
     { "bank": "A", "programNumber": 2, "name": "Classic 75 Mk 1", "category": "E.Piano" },
     { "bank": "A", "programNumber": 3, "name": "Felt Upright", "category": "Upright" },
     { "bank": "A", "programNumber": 4, "name": "B3 Chords N Solo", "category": "B3" },
